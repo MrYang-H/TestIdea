@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.Date;
-
+/*
 @Controller
 @RequestMapping("/comment")
 public class CommentController {
@@ -28,3 +28,4 @@ public class CommentController {
     return "redirect:/discuss/detail"+discussPostId;
 
     }}
+*/
